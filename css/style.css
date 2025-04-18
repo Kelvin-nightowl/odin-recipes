@@ -1,0 +1,46 @@
+body {
+    background-color: 
+    #063970;
+}
+a {
+    color: #002333;
+    
+}
+
+.home_sphere {
+    background-color: #07f887;
+    color: 
+    #002333;
+    border-radius: 86px;
+    height: 230px;
+    width: 494px;
+    text-align: center;
+    padding: 5px;
+    margin-left: 50px;
+}
+
+.home_sphere.links {
+    text-align: center;
+    padding-left: 4px;
+}
+
+.img_sphere {
+    background-color: #07f887;
+    color: 
+    #002333;
+    border-radius: 86px;
+    height: 230px;
+    width: 494px;
+    text-align: center;
+    padding: 5px;
+    margin-left: 50px;
+
+}
+
+.text {
+    color: #ffffff;
+    text-align: center;
+}
+.homelink {
+    color: #ffffff;
+}
