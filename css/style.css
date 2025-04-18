@@ -12,11 +12,14 @@ a {
     color: 
     #002333;
     border-radius: 86px;
+    
     height: 230px;
     width: 494px;
     text-align: center;
     padding: 5px;
-    margin-left: 50px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: 5px solid #ffffff;
 }
 
 .home_sphere.links {
@@ -33,7 +36,9 @@ a {
     width: 494px;
     text-align: center;
     padding: 5px;
-    margin-left: 50px;
+    margin-left:0%;
+    
+    
 
 }
 
@@ -42,5 +47,10 @@ a {
     text-align: center;
 }
 .homelink {
+    color: #ffffff;
+}
+
+footer {
+    text-align: center;
     color: #ffffff;
 }
